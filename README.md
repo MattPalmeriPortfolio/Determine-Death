@@ -14,7 +14,7 @@ Contents
 
 ## Introduction
 Book practice project from Problem Solving With C++ Chapter 7. Project 20.
-write a program that determines when the user will likely die, based on an input of their sex and age. Demonstrates ability to read in files and use randomizing functions in c++.
+Program determines when the user will likely die, based on an input of their sex and age. Demonstrates ability to read in files and use randomizing functions in c++.
 Written using Microsoft Visual Studio. 
 
 ## Algorithm
